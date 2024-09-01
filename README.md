@@ -12,8 +12,8 @@ ID	ID 2	ID 3	ID 4	ID 5	Season	Team	County and State	tmin	tmax	tave	GP	Date	Post 
 
 Executive Summary:
 
-Predicting Attendance in the NHL.pdf
+Business case report to present to client or CEO. 
 
 Presentation: 
 
-Final Presentation
+Final PowerPoint Presentation
